@@ -1,5 +1,5 @@
 # ionic-2-slick-carousel Demo for using slick-carousel for Ionic 2
-
+<img src="https://raw.githubusercontent.com/gitvani/ionic-2-slick-carousel/master/thumbnail.png">
 <h1>Install project</h1>
 <div>
     <code>npm install</code></div>
