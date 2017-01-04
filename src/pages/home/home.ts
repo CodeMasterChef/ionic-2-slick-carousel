@@ -15,8 +15,8 @@ export class HomePage {
   }
   ngOnInit() {
     $('.myCarousel').slick({
-      centerMode: true,
       dots: true,
+      centerMode: true,
       infinite: false,
       centerPadding: '60px',
       slidesToShow: 1

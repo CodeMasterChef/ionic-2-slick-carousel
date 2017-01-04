@@ -5,4 +5,7 @@ page-home {
     .slick-current {
         opacity: 1 !important;
     }
+    .slick-dots li button:before  {
+        font-size: 50px !important;
+    }
 }
